@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="download_install_virtualbox" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>下载和安装VirtualBox</title>
+
+<para></para>
+
+<tip xml:id="tip.download_install_virtualbox"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/tutorial_how_to_install_virtualbox">【教程】如何安装VirtualBox</link></para>
+    <para><link xl:href="http://www.crifan.com/virtualbox_common_question_and_answer">【整理】VirtualBox常见问题及解答</link></para>
+    <para><link xl:href="http://www.crifan.com/crifan_recommend_virtual_machine_soft_virtualbox">【crifan推荐】虚拟机软件VirtualBox</link></para>
+</tip>
+
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+
+</chapter>

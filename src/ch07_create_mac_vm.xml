@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="create_mac_vm" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>使用VirtualBox创建Mac类的虚拟机</title>
+
+<para></para>
+
+<tip xml:id="tip.create_mac_vm"><title>相关旧帖</title>
+    <para><link xl:href="http://www.crifan.com/summary_note_about_use_virtual_machine_install_mac">【总结】用虚拟机安装Mac之前的注意事项</link></para>
+    <para><link xl:href="http://www.crifan.com/summary_install_mac_on_virtualbox">【总结】在VirtualBox上面安装Mac的注意事项</link></para>
+    <para><link xl:href="http://www.crifan.com/install_mac_os_x_lion_on_virtualbox_config_process">【超多图，超详解】在virtualbox上安装Mac OS X Lion 之 配置过程</link></para>
+    <para><link xl:href="http://www.crifan.com/install_mac_os_x_lion_on_virtualbox_install_process">【超多图，超详解】在virtualbox上安装Mac OS X Lion 之 安装过程</link></para>
+    <para><link xl:href="http://www.crifan.com/record_install_mac_lion_in_virtualbox_on_k470">记录在K470+SSD+Win7下，在VirtualBox中安装Mac Lion 10.7</link></para>
+    <para><link xl:href="http://www.crifan.com/continue_install_mac_lion_10_7_on_virtualbox_under_k470_ssd_win7">【继续折腾】在K470+SSD+Win7下，使用VirtualBox安装Mac Lion 10.7</link></para>
+    <para><link xl:href="http://www.crifan.com/install_mac_os_x_lion_on_virtualbox_x64_win7_host">【记录】在6G内存的64位Win7主机中，在VirtualBox中安装Mac OS X 10.7 Lion</link></para>
+    <para><link xl:href="http://www.crifan.com/create_new_mac_os_x_lion_virtual_machine_on_virtualbox_on_6g_x64_win7">【教程】6G内存的64位Win7下，新建Mac虚拟机</link></para>
+    <para><link xl:href="http://www.crifan.com/configure_setting_mac_os_x_lion_virtual_machine_on_virtualbox_on_6g_x64_win7">【教程】6G内存的64位Win7下，配置Mac虚拟机</link></para>
+    <para><link xl:href="http://www.crifan.com/install_mac_os_x_lion_virtual_machine_on_virtualbox_on_6g_x64_win7">【教程】6G内存的64位Win7下，安装Mac虚拟机</link></para>
+    <para><link xl:href="http://www.crifan.com/1st_time_run_mac_os_x_lion_virtual_machine_on_virtualbox_on_6g_x64_win7">【教程】6G内存的64位Win7下，第一次启动已安装好的Mac虚拟机</link></para>
+    <para><link xl:href="http://www.crifan.com/virtualbox_mac_and_win7_share_folder_and_file">【已解决】实现VirtualBox中的（Guest OS）Mac和主机（Host OS）Win7之间的文件和文件夹共享</link></para>
+</tip>
+
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+
+</chapter>

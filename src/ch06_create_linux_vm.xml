@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="create_linux_vm" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>使用VirtualBox创建Linux类的虚拟机</title>
+
+<para></para>
+
+<sect1 xml:id="virtualbox_install_ubuntu"><title>用VirtualBox安装Ubuntu虚拟机</title>
+    <tip xml:id="tip.virtualbox_install_ubuntu"><title>相关旧帖</title>
+        <para><link xl:href="http://www.crifan.com/download_latest_version_ubuntu">【教程】下载最新版（桌面版的）Ubuntu</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_install_ubuntu_virtual_machine">【教程】【每步均有截图和解释】如何在VirtualBox中安装Ubuntu虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_create_new_ubuntu_virtual_machine">【教程】【每步均有截图和解释】在VirtualBox中创建Ubuntu的虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_configure_newly_created_ubuntu_virtual_machine">【教程】【每步均有截图和解释】在VirtualBox中配置（刚创建好的）Ubuntu虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_install_previously_configured_ubuntu_virtual_machin">【教程】【每步均有截图和解释】在VirtualBox中安装（刚配置好）Ubuntu虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_ubuntu_install_guest_addtions_fail_could_not_mount_the_media">【已解决】在Virtualbox中的Ubuntu虚拟机中，安装Guest Additions客户端增强包时出错：分配介质 虚拟光盘 xxx\VBoxsGuestAdditions.iso 到虚拟电脑 xxx 失败。您是否要强制卸载分配该介质？</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_ubuntu_fullscreen_resolution_1366_768">【已解决】virtualbox下的Ubuntu的1366×768全屏显示</link></para>
+    </tip>
+
+    <para></para>
+    <para></para>
+</sect1>
+
+<sect1 xml:id="virtualbox_install_android"><title>用VirtualBox安装Android虚拟机</title>
+    <tip xml:id="tip.virtualbox_install_android"><title>相关旧帖</title>
+        <para><link xl:href="http://www.crifan.com/virtualbox_install_android_vm">【记录】Virtualbox中安装Android虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_create_android_x86_vm">【记录】Virtualbox中创建Android-x86的虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_configure_newly_created_android_x86_vm">【记录】Virtualbox中配置新建好的Android-x86的虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_install_newly_configured_android_x86_vm">【记录】Virtualbox中安装已配置好的Android-x86的虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_android_x86_create_partition">【记录】Virtualbox中安装Android-x86过程中去创建新的分区</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_android_x86_format_partition_install_grub_config_system_writable">【记录】Virtualbox中安装Android-x86过程中新建分区后再去格式化分区，安装GRUB，设置system文件夹为可读写</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_android_x86_beagin_to_real_install_androix_x86">【记录】Virtualbox中安装Android-x86过程中开始真正的去安装Android-x86</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_android_x86_first_run_after_install">【记录】Virtualbox中安装Android-x86过程中安装完毕Android-x86后第一次启动</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_android_x86_run_no_response_for_mouse_and_keyboard_like_dead">【已解决】Virtualbox中安装Android-x86后第一次启动，结果没有响应，Android像死掉了一样</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_android_x86_fatal_no_bootable_medium_found_system_halted">【已解决】Virtualbox中安装Android-x86后去启动Android，结果出错：FATAL no bootable medium found system halted</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_android_x86_use_android">【记录】在Virtualbox中使用Android-x86虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_android_x86_4_0_can_not_web_browser">【已解决】在Virtualbox中的虚拟机Android-x86 4.0不能上网</link></para>
+        <para><link xl:href="http://www.crifan.com/summary_virtualbox_android_x86_installation_note">【整理】Virtualbox中安装Android-x86虚拟机的注意事项和心得</link></para>
+    </tip>
+
+    <para></para>
+    <para></para>
+</sect1>
+
+
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+<para></para>
+
+</chapter>

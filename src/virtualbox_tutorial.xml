@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<!DOCTYPE book
+[
+
+<!ENTITY cur_book_name      "virtualbox_tutorial" >
+<!ENTITY publish_date       "2015-05-19" >
+<!ENTITY release_version    "1.0" >
+
+<!ENTITY copyrith_year "2015" >
+<!ENTITY entity_common_multi_format     SYSTEM  "../../entity_common_multi_format.xml">
+<!ENTITY entity_common_publish_info     SYSTEM  "../../entity_common_publish_info.xml">
+]>
+
+<book version="5.0"
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    
+    xml:lang="zh_CN">
+
+<info>
+    <title>VirtualBox教程</title>
+    <subtitle></subtitle>
+    <keywordset>
+        <keyword>虚拟机</keyword>
+        <keyword>VirtualBox</keyword>
+        <keyword>教程</keyword>
+    </keywordset>
+
+    <abstract>
+        <para>本文主要介绍虚拟机VirtualBox的知识，主要包括，VirtualBox的基本介绍，如何使用VirtualBox创建各种虚拟机，包括XP,Ubuntu,Mac,Android等虚拟机，另外也针对VirtualBox的各种方面的配置进行了详细解释，包括显卡的配置，串口的配置，文件共享的配置，增强包和扩展包等等</para>
+        &entity_common_multi_format;
+    </abstract>
+
+    <revhistory>
+        <revision>
+            <revnumber>&release_version;</revnumber>
+            <date>&publish_date;</date>
+            <revremark>
+                <orderedlist>
+                    <listitem>把之前教程的地址整理过来</listitem>
+                    <listitem>添加VirtualBox中的鼠标自动切换</listitem>
+                </orderedlist>
+            </revremark>
+            <authorinitials>crl</authorinitials>
+        </revision>
+    </revhistory>
+
+    &entity_common_publish_info;
+</info>
+
+<xi:include href="preface.xml" />
+<xi:include href="ch01_virtualbox_intro.xml" />
+<xi:include href="ch02_download_install_virtualbox.xml" />
+<xi:include href="ch03_common_settings_issues.xml" />
+<xi:include href="ch04_create_vm_common_steps.xml" />
+<xi:include href="ch05_create_windows_vm.xml" />
+<xi:include href="ch06_create_linux_vm.xml" />
+<xi:include href="ch07_create_mac_vm.xml" />
+<xi:include href="reference.xml" />
+
+</book>

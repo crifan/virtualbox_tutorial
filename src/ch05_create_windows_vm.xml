@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="create_windows_vm" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>使用VirtualBox创建Windows类的虚拟机</title>
+
+<para></para>
+
+<sect1 xml:id="create_xp_vm"><title>用VirtualBox创建XP虚拟机</title>
+    <tip xml:id="tip.create_xp_vm"><title>相关旧帖</title>
+        <para><link xl:href="http://www.crifan.com/download_windows_xp_ghost_deepin">【资源下载】各种版本的Windows XP镜像下载：深度技术Ghost版</link></para>
+        <para><link xl:href="http://www.crifan.com/install_windows_xp_on_virtualbox">【记录】在Virtualbox上安装Windows XP虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/howto_create_windows_xp_virtual_machine_in_virtualbox">【教程】如何在Virtualbox中创建Windows XP的虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/howto_setup_windows_xp_virtual_machin_in_virtualbox">【教程】如何在Virtualbox中设置XP虚拟机</link></para>
+        <para><link xl:href="http://www.crifan.com/the_process_of_installing_created_and_configured_xp_virtual_machine_in_virtualbox">【教程】如何在Virtualbox中安装（已创建且配置好的）XP（虚拟机）的过程</link></para>
+        <para><link xl:href="http://www.crifan.com/install_xp_partition_error_edd_bios_data_error_disk_80h_general_failure_reading_drive_a">安装XP时分区错误：EDD BIOS data ERROR, Disk 80h. General failure reading drive A. Abort, Retry, Ignore, Fail?</link></para>
+        <para><link xl:href="http://www.crifan.com/howto_use_pq_power_quest_partition_magic_to_do_partition_for_blank_disk">【教程】如何（在Virtualbox中的Deepin XP安装盘中）通过PQ(PowerQuest PartitionMagic)给空白硬盘分区</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_xp_boot_error_fatal_int18_boot_failure">【已解决】Virtualbox中安装完毕XP后，启动出错：FATAL INT18 BOOT FAILURE</link></para>
+        <para><link xl:href="http://www.crifan.com/add_share_folder_for_virtualbox_guest_xp_and_host_win7">【教程】实现Virtualbox中的XP虚拟机和主机Win7之间的共享文件夹</link></para>
+    </tip>
+
+    <para></para>
+    <para></para>
+</sect1>
+
+
+<sect1 xml:id="create_win8_vm"><title>用VirtualBox创建Win8虚拟机</title>
+    <para></para>
+    <para></para>
+</sect1>
+
+
+</chapter>

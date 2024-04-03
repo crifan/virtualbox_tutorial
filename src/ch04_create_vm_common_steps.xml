@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter xml:id="create_vm_common_steps" xmlns="http://docbook.org/ns/docbook"
+         xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns:xi="http://www.w3.org/2001/XInclude"
+         xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+         xmlns:ns4="http://www.w3.org/1999/xhtml"
+         xmlns:ns3="http://www.w3.org/2000/svg"
+         xmlns:ns="http://docbook.org/ns/docbook">
+<title>使用VirtualBox安装一个新的虚拟机的通用步骤</title>
+
+<para>用VirtualBox创建虚拟机，有大部分的步骤，是通用的。现在整理如下：</para>
+
+<sect1 xml:id="step1_download_os"><title>步骤1：下载OS操作系统安装（ISO镜像）文件</title>
+    <para></para>
+    <para></para>
+</sect1>
+
+
+<sect1 xml:id="step2_create_new_vm"><title>步骤2：创建新的虚拟机</title>
+    <para></para>
+    <para></para>
+</sect1>
+
+
+<sect1 xml:id="step3_config_this_vm"><title>步骤3：配置刚新建好的虚拟机</title>
+    <para></para>
+    <para></para>
+</sect1>
+
+<sect1 xml:id="step4_do_install_vm"><title>步骤4：真正开始去安装虚拟机</title>
+    <para></para>
+    <para></para>
+</sect1>
+
+<sect1 xml:id="step5_config_for_1st_run_vm"><title>步骤5：在第一次运行安装好的虚拟机时，去做一些必要的配置</title>
+    <para>比如安装Mac后，需要设置对应的引导工具，才能引导，才能正常启动Mac系统。</para>
+    <para>比如安装好Android系统后，第一次启动，需要进行相关设置，之后才能正常使用Android系统。</para>
+</sect1>
+
+</chapter>

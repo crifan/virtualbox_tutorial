@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE chapter [
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" "http://www.crifan.com/files/res/docbook/entity/crl.ent">
+%crl_ent;
+
+]>
+
+<chapter
+        xmlns="http://docbook.org/ns/docbook"
+        xmlns:xl="http://www.w3.org/1999/xlink"
+        xmlns:xi="http://www.w3.org/2001/XInclude"
+        xmlns:ns5="http://www.w3.org/1998/Math/MathML"
+        xmlns:ns4="http://www.w3.org/1999/xhtml"
+        xmlns:ns3="http://www.w3.org/2000/svg"
+
+         xml:id="common_settings_issues">
+<title>通用的配置和常见的问题</title>
+<abstract></abstract>
+
+<para>此处只整理出，VirtualBox中，和所创建的虚拟机类型无关的，通用配置，常见的一些问题。</para>
+
+<sect1 xml:id="common_settings"><title>VirtualBox中一些通用的配置</title>
+    <tip xml:id="tip.common_settings"><title>相关旧帖</title>
+        <para><link xl:href="http://www.crifan.com/virtualbox_guest_addtions_vs_extension_pack">【整理】VirtualBox中的Guest Additions（客户端增强包)和Extension Pack（扩展增强包）的含义和区别</link></para>
+        <para><link xl:href="http://www.crifan.com/how_to_intall_virtualbox_guest_additions_to_enhance_function">【教程】如何为VirtualBox安装 Guest Additions/增强工具包/功能增强包/增强功能包</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_network_related_settings_nat_bridged_ip_nic">【整理】Virtualbox中的网络类型（NAT，桥接等），网卡，IP地址等方面的设置</link></para>
+        <para><link xl:href="http://www.crifan.com/summary_how_to_configure_virtualbox_serial_port">【详解】如何配置VirtualBox中的虚拟机的串口</link></para>
+        <para><link xl:href="http://www.crifan.com/summary_virtualbox_how_to_drap_and_drop_file_between_host_and_guest_vm">【整理】VirtualBox中如何实现主机和虚拟机之间的文件拖放（Drag-and-Drop）</link></para>
+    </tip>
+    <para></para>
+    <para></para>
+    <para></para>
+    <para>VirtualBox中的：鼠标自动切换</para>
+    <figure xml:id="fg.virtualbox_ubuntu_mouse_auto_switch"><title>Virtualbox中Ubuntu系统提示鼠标自动切换</title>
+        <mediaobject>
+            <imageobject role="html"><imagedata fileref="images/virtualbox_ubuntu_mouse_auto_switch.png" align="left"   scalefit="0" width="100%" /></imageobject>
+            <imageobject role="fo">  <imagedata fileref="images/virtualbox_ubuntu_mouse_auto_switch.png" align="center" scalefit="1" width="20%" /></imageobject>
+        </mediaobject>
+    </figure>
+    <figure xml:id="fg.has_enable_auto_mouse_switch"><title>Virtualbox中Ubuntu中已经开启鼠标自动切换</title>
+        <mediaobject>
+            <imageobject role="html"><imagedata fileref="images/has_enable_auto_mouse_switch.png" align="left"   scalefit="0" width="100%" /></imageobject>
+            <imageobject role="fo">  <imagedata fileref="images/has_enable_auto_mouse_switch.png" align="center" scalefit="1" width="20%" /></imageobject>
+        </mediaobject>
+    </figure>
+    <para></para>
+    <para></para>
+</sect1>
+
+<sect1 xml:id="common_issues"><title>VirtualBox中常见的问题及解决办法</title>
+    <tip xml:id="tip.vm_vs_real_pc"><title>相关旧帖</title>
+        <para><link xl:href="http://www.crifan.com/virtualboxvt_x_features_locked_or_unavailable_in_msr_verr_vmx_msr_locked_or_disabled">【已解决】VirtualBox中安装虚拟机时出错：VT-x features locked or unavailable in MSR,VERR_VMX_MSR_LOCKED_OR_DISABLED</link></para>
+        <para><link xl:href="http://www.crifan.com/virtualbox_error_failed_to_open_a_session_for_the_virtual_machine_unable_to_load_r3_module_vboxdd_dll_getlasterror_126_verr_module_not_found">【整理】运行Virtualbox去安装系统时出错：Failed to open a session for the virtual machine，Unable to load R3 module xxxx/VBoxDD.DLL(VBoxDD)，GetLastError=126，(VERR_MODULE_NOT_FOUND)</link></para>
+    </tip>
+    <para></para>
+    <para></para>
+</sect1>
+
+</chapter>
